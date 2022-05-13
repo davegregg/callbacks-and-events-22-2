@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 200, 179);
+    color: rgb(97, 51, 36);
+}
+
+body.dark {
+    background-color: rgb(178, 101, 76);
+    color: rgb(255, 237, 215);
+}
